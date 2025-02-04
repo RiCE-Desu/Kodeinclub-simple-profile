@@ -1,4 +1,4 @@
-export function Portfolio() {
+export default function Portfolio() {
   const images = [
     "https://i.pinimg.com/736x/d0/0d/7e/d00d7e5283fe55c03ab1b3f7da4dfd6e.jpg",
     "https://i.pinimg.com/736x/d7/41/33/d74133d4e00a84694707e067add43450.jpg",
